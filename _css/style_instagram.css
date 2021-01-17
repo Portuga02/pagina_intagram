@@ -33,6 +33,8 @@
     
     .instagram-phone img {
         height: 50rem;
+        border-radius: 5px;
+        border: 1px solid lightgray
     }
     
     .instagram-continue {
